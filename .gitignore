@@ -1,0 +1,9 @@
+# files used to store deployment specific configuration
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+
